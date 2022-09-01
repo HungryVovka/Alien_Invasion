@@ -4,4 +4,4 @@
 
 Крайне советую эту книгу всем начинающим, кто изучает Python!
 
-<img src="HungryVovka_LearningPythonBook.jpg" width="300" height="400">
+<img src="images/HungryVovka_LearningPythonBook.jpg" width="300" height="400">
